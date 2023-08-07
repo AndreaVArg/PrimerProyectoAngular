@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'hola_mundo2';
+  mensaje= "Hola Argentina Programa";
 }
